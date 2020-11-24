@@ -2,13 +2,29 @@
   url: /
   external: false
 
+- title: articles
+  url: /articles/
+  external: false
+
 - title: archive
   url: /archive/
   external: false
 
+- title: archive1
+  url: /archive1/
+  external: false
+
 - title: about
   url: /about/
+  external: false
+
+- title: search
+  url: /search/
   external: false # set true if you using external link, see below
+
+- title: resume
+  url: https://pt.linkedin.com/in/hugfil
+  external: true # set true if you using external link, see below
 
 # Example:
 # - title: github
